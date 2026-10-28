@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/aquatrace/',
+  base: '/cytech-technical-documentation/',
 
   title: 'AquaTrace',
   description: 'Technical documentation for the AquaTrace water quality monitoring platform',
