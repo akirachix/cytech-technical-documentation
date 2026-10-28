@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/akirachix/cytech-technical-documentation#readme",
   "devDependencies": {
+    "search-insights": "^2.17.3",
     "vitepress": "^1.6.4"
   }
 }
